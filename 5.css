@@ -1,0 +1,45 @@
+#titel span:first-child{
+
+    color: rgb(2, 255, 2);
+}
+#titel span:nth-child(1){
+    color: rgb(208, 255, 0);
+}
+#titel span:nth-child(2){
+    color: rgb(0, 68, 255);
+}
+#titel span:nth-child(3){
+    color: rgb(255, 0, 170);
+}
+#name span:first-child{
+    color: #ffd900;
+}
+#name span:nth-child(1){
+    color: rgb(183, 0, 255);
+}
+#name span:nth-child(2){
+    color: rgb(183, 0, 255);
+}
+#name span:nth-child(3){
+    color: rgb(0, 98, 255);
+}
+#name span:nth-child(4){
+    color: rgb(0, 255, 76);
+}
+#name span:nth-child(8){
+    color: rgb(115, 255, 0);
+}
+#name span:nth-child(9){
+    color: rgb(255, 0, 0);
+}
+#name span:nth-child(10){
+    color: rgb(229, 255, 0);
+}
+#name span:nth-child(11){
+    color: rgb(4, 0, 255);
+}
+#rain span{
+    color:cornflowerblue ;
+}
+
+
